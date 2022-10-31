@@ -21,11 +21,19 @@ if (isset($_POST['demo-email'])) {
     $email_message .= "Email: " . clean_string($email) . "\n";
     $email_message .= "Message: " . clean_string($message) . "\n";
 
-    // create email headers
-    $headers = 'From: ' . $email . "\r\n" .
-        'Reply-To: ' . $email . "\r\n" .
-        'X-Mailer: PHP/' . phpversion();
-    @mail($email_to, $email_subject, $email_message);
+         $header = "From:'. $email .' \r\n";
+         $header .= "Cc:'. $email_to .' \r\n";
+         $header .= "MIME-Version: 1.0\r\n";
+         $header .= "Content-type: text/html\r\n";
+         
+         $retval = mail ($to,$subject,$message,$header);
+         
+         if( $retval == true ) {
+            echo "Message sent successfully...";
+         }else {
+            echo "Message could not be sent...";
+         }
+    @mail($email_to, $email_subject, $email_message,$header);
 ?>
 
     <!-- INCLUDE YOUR SUCCESS MESSAGE BELOW -->
