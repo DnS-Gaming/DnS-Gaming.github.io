@@ -33,7 +33,7 @@ if (isset($_POST['demo-email'])) {
          }else {
             echo "Message could not be sent...";
          }
-    @mail($email_to, $email_subject, $email_message,$header);
+    mail($email_to, $email_subject, $email_message,$header);
 ?>
 
     <!-- INCLUDE YOUR SUCCESS MESSAGE BELOW -->
