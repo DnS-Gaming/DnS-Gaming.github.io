@@ -1,0 +1,180 @@
+{
+    "gamesInfo": [
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Sudoku",
+            "folderName": "",
+            "description": "Show ads inside your game with this easy to use, multiple advertisers support tool.",
+            "platforms": [
+                "Android_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Sudoku",
+            "folderName": "",
+            "description": "Show ads inside your game with this easy to use, multiple advertisers support tool.",
+            "platforms": []
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Ragdoll Rocket Runner",
+            "folderName": "",
+            "description": "A New take on an Infinite Side Scrolling Runner.",
+            "platforms": [
+                "Android_"
+            ]
+        }
+    ],
+    "packs": [
+        {
+            "name": "Mobile Tools",
+            "assets": [
+                "MobileAds",
+                "EasyIAP",
+                "MobileNotifications",
+                "MobileGameServices",
+                "RateGame",
+                "CrossPromo",
+                "AllPlatformsSave",
+                "Localization",
+                "DailyRewards"
+            ]
+        }
+    ],
+    "assetsInfo": [
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Traffic System",
+            "folderName": "TrafficSystem",
+            "description": "Highly performant and easy to use traffic system that can make any driving game more fun to play in just a few clicks.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Mobile Tools",
+            "folderName": "MobileTools",
+            "description": "All you need to publish your finished game on the store and BONUS a free game with all of them already integrated",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Easy IAP",
+            "folderName": "EasyIAP",
+            "description": "Sell In App products inside your game with minimal setup and very little programming knowledge.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Localization (Multi-Language)",
+            "folderName": "Localization",
+            "description": "Make your app international and reach a greater audience by translating your app in multiple languages.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Daily (Time Based) Rewards",
+            "folderName": "DailyRewards",
+            "description": "Increase the retention of your game by using Daily Rewards and Time Based rewards.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Mobile Push Notifications",
+            "folderName": "MobileNotifications",
+            "description": "Send scheduled offline notifications to your users and keep them engaged.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Easy Achievements and Leaderboards",
+            "folderName": "MobileGameServices",
+            "description": "Submit achievements and scores with minimal setup and increase competition between your users.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Rate Game Popup",
+            "folderName": "RateGame",
+            "description": "Increase the number of game ratings by encouraging users to rate your game.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Mobile Cross Promo",
+            "folderName": "CrossPromo",
+            "description": "Easily cross promote and increase popularity for all of your published games.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "All Platforms Save",
+            "folderName": "AllPlatformsSave",
+            "description": "Easy to use: same line of code to save or load game data on all supported Unity platforms.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Delivery Vehicles Pack",
+            "folderName": "DeliveryVehiclesPack",
+            "description": "Delivery Vehicles Pack contains 3 low poly, textured vehicles: Scooter, Three Wheeler, Minivan",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Mobile Ads",
+            "folderName": "MobileAds",
+            "description": "Show ads inside your game with this easy to use, multiple advertisers support tool.",
+            "platforms": [
+                "_"
+            ]
+        },
+        {
+            "longVersion": "",
+            "shortVersion": 0,
+            "name": "Parallax System",
+            "folderName": "Parallax",
+            "description": "Add Infinitly complicated parallax worlds to your game with an easy to implement toolset.",
+            "platforms": [
+                "_"
+            ]
+        }
+    ]
+}
